@@ -10,7 +10,7 @@ The musical mandala project will create a colorful mandala that changes colors b
 - Feature 2
 	- Also the project will have audio playback system. Will use pygame.mixer to play music 
 - Feature N 
-	- In addition the project will have a drawing system. Wil draw each rotated point every frame.
+	- In addition the project will have a drawing system. Will draw each rotated point every frame.
 
 ## Challenges
 - Will have to research how to use pygame.mixer in the project 
